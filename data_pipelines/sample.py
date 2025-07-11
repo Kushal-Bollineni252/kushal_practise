@@ -14,5 +14,6 @@ num2 = 7
 result = add_two_integers(num1, num2)
 print("The sum is:", result)
 Īprint("Hi")
+print("inser 2nd hi")
 
 # This script is a simple demonstration of a data pipeline
